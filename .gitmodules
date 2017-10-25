@@ -1,19 +1,1 @@
-[submodule "injazllc/right-to-left"]
-	path = injazllc/right-to-left
-	url = git@github.com:injazllc/right-to-left.git
-	branch = master
 
-[submodule "injazllc/navigation_language_menu"]
-	path = injazllc/navigation_language_menu
-	url = git@github.com:injazllc/navigation_language_menu.git
-	branch = master
-
-[submodule "injazllc/website_navigation_language_menu"]
-	path = injazllc/website_navigation_language_menu
-	url = git@github.com:injazllc/navigation_language_menu.git
-	branch = master
-
-[submodule "injazllc/web-rlt"]
-	path = injazllc/web-rlt
-	url = git@github.com:injazllc/web-rlt.git
-	branch = master
