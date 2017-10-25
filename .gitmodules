@@ -12,3 +12,8 @@
 	path = injazllc/website_navigation_language_menu
 	url = git@github.com:injazllc/navigation_language_menu.git
 	branch = master
+
+[submodule "injazllc/web-rlt"]
+	path = injazllc/web-rlt
+	url = git@github.com:injazllc/web-rlt.git
+	branch = master
