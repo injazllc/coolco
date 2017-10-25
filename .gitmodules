@@ -2,3 +2,8 @@
 	path = injazllc/right-to-left
 	url = git@github.com:injazllc/right-to-left.git
 	branch = master
+
+[submodule "injazllc/navigation_language_menu"]
+	path = injazllc/navigation_language_menu
+	url = git@github.com:injazllc/navigation_language_menu.git
+	branch = master
