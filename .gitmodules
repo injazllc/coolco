@@ -7,3 +7,8 @@
 	path = injazllc/navigation_language_menu
 	url = git@github.com:injazllc/navigation_language_menu.git
 	branch = master
+
+[submodule "injazllc/website_navigation_language_menu"]
+	path = injazllc/website_navigation_language_menu
+	url = git@github.com:injazllc/navigation_language_menu.git
+	branch = master
